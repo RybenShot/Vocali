@@ -1,2 +1,2 @@
 # Vocali
-Prueba tecnica para la empresa Invox
+Prueba tecnica sobre transcripcion de voz a texto con sistema de logueo.
